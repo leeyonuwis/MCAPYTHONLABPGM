@@ -1,0 +1,4 @@
+fn = open(“Bank.py”,’r’)
+s = file.readline()
+l = s.split()
+print(l)
